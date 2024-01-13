@@ -1,1 +1,1 @@
-# PowerBI
+# SuperStore Sales dashboard
